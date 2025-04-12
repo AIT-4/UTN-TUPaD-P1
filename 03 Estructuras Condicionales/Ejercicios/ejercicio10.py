@@ -9,8 +9,6 @@ print ("ESTACIONES DEL AÑO")
 hemisferio = input("Ingrese el hemisferio en el que se encuentra. N para norte y S para sur: ")
 hemisferio = hemisferio.lower()
 
-print(hemisferio)
-
 # Solicitamos el dia del mes
 dia = int(input("Ingrese el DIA del mes: "))
 
