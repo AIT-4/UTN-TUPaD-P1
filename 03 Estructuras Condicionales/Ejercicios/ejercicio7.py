@@ -3,6 +3,14 @@
 # pantalla; en caso contrario, dejar el string tal cual lo ingresó el usuario e imprimirlo por
 # pantalla.
 
+# Pedimos al usuario el string.
 texto = input("Por favor ingrese una frase o palabra: ")
 
-if
+# Separamos la ultima letra y la convertimos en minuscula.
+letraFinal = texto[-1:]
+letraFinal = letraFinal.lower()
+
+if letraFinal == "a" or letraFinal == "e" or letraFinal == "i" or letraFinal == "o" or  letraFinal == "u":
+    print(f"{texto}!")
+else:
+    print(texto)
