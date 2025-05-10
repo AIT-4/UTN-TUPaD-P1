@@ -2,8 +2,8 @@
 # directamente. Imprimir la lista resultante por pantalla.
 
 dobles = []
-dobles.append(10)
-dobles.append(20)
-dobles.append(30)
+dobles.append(5*2)
+dobles.append(10*5)
+dobles.append(15*2)
 
 print(dobles)
