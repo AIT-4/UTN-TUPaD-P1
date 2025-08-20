@@ -1,6 +1,6 @@
-# 💻 Programación 1  
+# 💻 Programación 1
 **Tecnicatura Universitaria en Programación**
-*Universidad Tecnológica Nacional*  
+*Universidad Tecnológica Nacional*
 
 ### Estudiante  
 - **Nombre:** Durussel, Federico
@@ -16,4 +16,6 @@ Este repositorio almacena todos los trabajos prácticos realizados durante la cu
 - También se encuentran las soluciones brindadas por la cátedra. Estos se encuentran en un archivo *.ipynb*.
 - En alguna unidad se puede encontrar otro tipo de carpetas detallado en un *README* de la unidad.
 - Se busca mantener un código limpio, ordenado y bien documentado. Incluyen comentarios y estructura adecuada.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
